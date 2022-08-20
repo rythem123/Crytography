@@ -7,6 +7,7 @@ Tkinter – This module is used to make GUIs using python language. To know more
 Basics of Cryptography – Cryptography is used for Secure Communication.
 
 Encryption – The process of encoding a message or information in such a way that only authorized parties can access it.
+
 Decryption – The process of taking encoded or encrypted text or other data and converting it back into text.
 
 
