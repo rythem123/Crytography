@@ -3,6 +3,7 @@ Prerequisites:
 
 Language used – Python.
 Tkinter – This module is used to make GUIs using python language. To know more about tkinter click here https://www.geeksforgeeks.org/python-gui-tkinter/
+
 Basics of Cryptography – Cryptography is used for Secure Communication.
 
 Encryption – The process of encoding a message or information in such a way that only authorized parties can access it.
